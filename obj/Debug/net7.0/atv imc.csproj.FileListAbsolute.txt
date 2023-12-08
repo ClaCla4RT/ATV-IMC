@@ -1,0 +1,5 @@
+C:\Users\ClaCla\Desktop\atv imc\obj\Debug\net7.0\atv imc.csproj.AssemblyReference.cache
+C:\Users\ClaCla\Desktop\atv imc\obj\Debug\net7.0\atv imc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ClaCla\Desktop\atv imc\obj\Debug\net7.0\atv imc.AssemblyInfoInputs.cache
+C:\Users\ClaCla\Desktop\atv imc\obj\Debug\net7.0\atv imc.AssemblyInfo.cs
+C:\Users\ClaCla\Desktop\atv imc\obj\Debug\net7.0\atv imc.csproj.CoreCompileInputs.cache
